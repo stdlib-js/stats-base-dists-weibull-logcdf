@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`d88905f`](https://github.com/stdlib-js/stdlib/commit/d88905fbd9006bf223db7ce4959b46f02cf7d73e) - **docs:** fix parameter descriptions in Weibull distribution packages _(by Philipp Burckhardt)_
 -   [`b87254d`](https://github.com/stdlib-js/stdlib/commit/b87254d4535a3b90bf3d0068750ed6e9ca5dbc85) - **docs:** fix parameter descriptions in Weibull distribution packages _(by Philipp Burckhardt)_
 -   [`23b4953`](https://github.com/stdlib-js/stdlib/commit/23b49531af0772d072da699ca6aac1c3d58add84) - **feat:** add C implementation of `stats/base/dists/weibull/logcdf` _(by Vinit Pandit, Philipp Burckhardt)_
 
