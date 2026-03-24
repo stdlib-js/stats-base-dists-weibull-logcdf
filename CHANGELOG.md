@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-24)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`cd05946`](https://github.com/stdlib-js/stdlib/commit/cd05946c9680de3ec0a5f3d4f67020f7ab71b03e) - **docs:** fix incorrect return annotation in `stats/base/dists/weibull/logcdf` [(#11118)](https://github.com/stdlib-js/stdlib/pull/11118) _(by Om-A-osc)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Om-A-osc
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
